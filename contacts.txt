@@ -1,2 +1,3 @@
 reciever1_name reciever1_mail_id
 reciever2_name reciever2_mail_id
+..
