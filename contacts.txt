@@ -1,1 +1,2 @@
-reciever_name reciever_mail_id
+reciever1_name reciever1_mail_id
+reciever2_name reciever2_mail_id
